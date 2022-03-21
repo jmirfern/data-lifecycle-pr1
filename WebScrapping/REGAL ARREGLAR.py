@@ -1,25 +1,13 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from os import path
 import re
 
-# Cambiem directori de feina
-#os.path('Practica1')
+# Posem la URL
+URL = 'https://www.regal.es/seguros-coche'
 
-# Llista on guardarem els diferents links
-URL = list()
-
-# Incorporem els links que hem guardat en el .txt
-with open('/home/mp334t1/Practica1/a.txt') as urls:
-    for i in urls:
-    	URL.append(i)
-
-# Eliminem els salts de linea (\n)
-URL = [urls.strip() for urls in URL]
-
-# Extraurem les dades HTML de la web, farem el cas particular del 2
-orlUrl = requests.get(URL[16])
+# Extraurem les dades HTML de la web
+orlUrl = requests.get(URL)
 
 # Ho pasem a text per a poder treballar
 soup = BeautifulSoup(orlUrl.text,'lxml')
