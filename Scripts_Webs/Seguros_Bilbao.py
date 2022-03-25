@@ -7,6 +7,7 @@ from datetime import datetime
 def Seguros_Bilbao():
     # Posem la URL
     URL = 'https://www.segurosbilbao.com/seguros-coche/comparativa'
+    print('Llegint dades de Seguros Bilbao...')
 
     # Extraurem les dades HTML de la web
     orlUrl = requests.get(URL)

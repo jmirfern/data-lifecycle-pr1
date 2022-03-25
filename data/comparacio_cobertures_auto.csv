@@ -1,0 +1,532 @@
+,data,companyia,producte,paquet,garantia,cobertura
+0,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Responsabilidad civil obligatoria,Incluido
+1,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Responsabilidad civil complementaria 50MM,Incluido
+2,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Responsabilidad civil del conductor/ tomador como peatón y ciclista,Incluido
+3,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Responsabilidad civil por incendio del vehículo asegurado,Incluido
+4,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Defensa y reclamación,Incluido
+5,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Asistencia en viaje,Incluido
+6,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Accidentes corporales del conductor,Incluido
+7,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Orientación médica telefónica,Incluido
+8,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Rotura de lunas,Incluido
+9,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Garantía de incendio,No Incluido
+10,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Cobertura de robo y hurto,No Incluido
+11,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Daños causados por animales cinegéticos,Incluido
+12,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Daños causados por fenómenos atmosféricos,No Incluido
+13,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Garantía de daños propios,No Incluido
+14,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Lunas tintadas,Opcional
+15,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Defensa y reclamación ampliadas,Opcional
+16,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Asistencia en viaje ampliada,Opcional
+17,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Accidentes corporales del conductor ampliado a ocupantes,Opcional
+18,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Cobertura de incendio ampliada,No Incluido
+19,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Cobertura de robo ampliada,No Incluido
+20,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Cobertura de daños propios ampliada,No Incluido
+21,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Vehículo de sustitución,No Incluido
+22,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Indemnización por retirada de carnet,Opcional
+23,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros básico,Gestoria del automóvil,No Incluido
+24,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Responsabilidad civil obligatoria,Incluido
+25,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Responsabilidad civil complementaria 50MM,Incluido
+26,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Responsabilidad civil del conductor/ tomador como peatón y ciclista,Incluido
+27,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Responsabilidad civil por incendio del vehículo asegurado,Incluido
+28,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Defensa y reclamación,Incluido
+29,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Asistencia en viaje,Incluido
+30,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Accidentes corporales del conductor,Incluido
+31,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Orientación médica telefónica,Incluido
+32,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Rotura de lunas,Incluido
+33,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Garantía de incendio,Incluido
+34,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Cobertura de robo y hurto,Incluido
+35,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Daños causados por animales cinegéticos,Incluido
+36,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Daños causados por fenómenos atmosféricos,Opcional
+37,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Garantía de daños propios,No Incluido
+38,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Lunas tintadas,Opcional
+39,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Defensa y reclamación ampliadas,Opcional
+40,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Asistencia en viaje ampliada,Opcional
+41,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Accidentes corporales del conductor ampliado a ocupantes,Opcional
+42,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Cobertura de incendio ampliada,Opcional
+43,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Cobertura de robo ampliada,Opcional
+44,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Cobertura de daños propios ampliada,Opcional
+45,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Vehículo de sustitución,Opcional
+46,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Indemnización por retirada de carnet,Opcional
+47,2022-03-25 20:37:37,Catalana Occidente,Auto,Terceros ampliado,Gestoria del automóvil,No Incluido
+48,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Responsabilidad civil obligatoria,Incluido
+49,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Responsabilidad civil complementaria 50MM,Incluido
+50,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Responsabilidad civil del conductor/ tomador como peatón y ciclista,Incluido
+51,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Responsabilidad civil por incendio del vehículo asegurado,Incluido
+52,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Defensa y reclamación,Incluido
+53,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Asistencia en viaje,Incluido
+54,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Accidentes corporales del conductor,Incluido
+55,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Orientación médica telefónica,Incluido
+56,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Rotura de lunas,Incluido
+57,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Garantía de incendio,Incluido
+58,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Cobertura de robo y hurto,Incluido
+59,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Daños causados por animales cinegéticos,Incluido
+60,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Daños causados por fenómenos atmosféricos,Incluido
+61,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Garantía de daños propios,Incluido
+62,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Lunas tintadas,Opcional
+63,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Defensa y reclamación ampliadas,Opcional
+64,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Asistencia en viaje ampliada,Opcional
+65,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Accidentes corporales del conductor ampliado a ocupantes,Opcional
+66,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Cobertura de incendio ampliada,Opcional
+67,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Cobertura de robo ampliada,Opcional
+68,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Cobertura de daños propios ampliada,Opcional
+69,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Vehículo de sustitución,Opcional
+70,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Indemnización por retirada de carnet,Opcional
+71,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo con franquicia,Gestoria del automóvil,No Incluido
+72,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Responsabilidad civil obligatoria,Incluido
+73,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Responsabilidad civil complementaria 50MM,Incluido
+74,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Responsabilidad civil del conductor/ tomador como peatón y ciclista,Incluido
+75,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Responsabilidad civil por incendio del vehículo asegurado,Incluido
+76,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Defensa y reclamación,Incluido
+77,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Asistencia en viaje,Incluido
+78,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Accidentes corporales del conductor,Incluido
+79,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Orientación médica telefónica,Incluido
+80,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Rotura de lunas,Incluido
+81,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Garantía de incendio,Incluido
+82,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Cobertura de robo y hurto,Incluido
+83,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Daños causados por animales cinegéticos,Incluido
+84,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Daños causados por fenómenos atmosféricos,Incluido
+85,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Garantía de daños propios,Incluido
+86,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Lunas tintadas,Opcional
+87,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Defensa y reclamación ampliadas,Opcional
+88,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Asistencia en viaje ampliada,Opcional
+89,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Accidentes corporales del conductor ampliado a ocupantes,Opcional
+90,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Cobertura de incendio ampliada,Opcional
+91,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Cobertura de robo ampliada,Opcional
+92,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Cobertura de daños propios ampliada,Opcional
+93,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Vehículo de sustitución,Opcional
+94,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Indemnización por retirada de carnet,Opcional
+95,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo sin franquicia,Gestoria del automóvil,No Incluido
+96,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Responsabilidad civil obligatoria,Incluido
+97,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Responsabilidad civil complementaria 50MM,Incluido
+98,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Responsabilidad civil del conductor/ tomador como peatón y ciclista,Incluido
+99,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Responsabilidad civil por incendio del vehículo asegurado,Incluido
+100,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Defensa y reclamación,Incluido
+101,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Asistencia en viaje,Incluido
+102,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Accidentes corporales del conductor,Incluido
+103,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Orientación médica telefónica,Incluido
+104,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Rotura de lunas,Incluido
+105,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Garantía de incendio,Incluido
+106,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Cobertura de robo y hurto,Incluido
+107,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Daños causados por animales cinegéticos,Incluido
+108,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Daños causados por fenómenos atmosféricos,Opcional
+109,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Garantía de daños propios,Incluido
+110,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Lunas tintadas,Opcional
+111,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Defensa y reclamación ampliadas,Incluido
+112,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Asistencia en viaje ampliada,Incluido
+113,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Accidentes corporales del conductor ampliado a ocupantes,Incluido
+114,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Cobertura de incendio ampliada,Incluido
+115,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Cobertura de robo ampliada,Incluido
+116,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Cobertura de daños propios ampliada,Incluido
+117,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Vehículo de sustitución,Incluido
+118,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Indemnización por retirada de carnet,Incluido
+119,2022-03-25 20:37:37,Catalana Occidente,Auto,Todo riesgo premium,Gestoria del automóvil,Incluido
+0,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Seguro del conductor/Accidentes personales del conductor,INCLUIDO
+1,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Responsabilidad Civil,INCLUIDO
+2,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Asistencia en Carretera y Grúa Estándar en España,INCLUIDO
+3,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Servicio de Reparación Direct/Talleres Reparación,INCLUIDO
+4,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Defensa Jurídica y Reclamación de Daños/Protección Jurídica,INCLUIDO
+5,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Rotura de Lunas,NO INCLUIDO
+6,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Cobertura de Incendio del Coche,NO INCLUIDO
+7,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Robo y Hurto del Coche,NO INCLUIDO
+8,2022-03-25 20:37:38,Direct Seguros,Auto,coche a terceros básico,Cobertura de Daños Propios,NO INCLUIDO
+9,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Seguro del conductor/Accidentes personales del conductor,INCLUIDO
+10,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Responsabilidad Civil,INCLUIDO
+11,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Asistencia en Carretera y Grúa Estándar en España,INCLUIDO
+12,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Servicio de Reparación Direct/Talleres Reparación,INCLUIDO
+13,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Defensa Jurídica y Reclamación de Daños/Protección Jurídica,INCLUIDO
+14,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Rotura de Lunas,INCLUIDO
+15,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Cobertura de Incendio del Coche,NO INCLUIDO
+16,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Robo y Hurto del Coche,NO INCLUIDO
+17,2022-03-25 20:37:38,Direct Seguros,Auto,Terceros con Lunas,Cobertura de Daños Propios,NO INCLUIDO
+18,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Seguro del conductor/Accidentes personales del conductor,INCLUIDO
+19,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Responsabilidad Civil,INCLUIDO
+20,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Asistencia en Carretera y Grúa Estándar en España,INCLUIDO
+21,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Servicio de Reparación Direct/Talleres Reparación,INCLUIDO
+22,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Defensa Jurídica y Reclamación de Daños/Protección Jurídica,INCLUIDO
+23,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Rotura de Lunas,INCLUIDO
+24,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Cobertura de Incendio del Coche,INCLUIDO
+25,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Robo y Hurto del Coche,INCLUIDO
+26,2022-03-25 20:37:38,Direct Seguros,Auto,"Terceros con Lunas, Incendio y Robo",Cobertura de Daños Propios,NO INCLUIDO
+27,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Seguro del conductor/Accidentes personales del conductor,INCLUIDO
+28,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Responsabilidad Civil,INCLUIDO
+29,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Asistencia en Carretera y Grúa Estándar en España,INCLUIDO
+30,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Servicio de Reparación Direct/Talleres Reparación,INCLUIDO
+31,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Defensa Jurídica y Reclamación de Daños/Protección Jurídica,INCLUIDO
+32,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Rotura de Lunas,INCLUIDO
+33,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Cobertura de Incendio del Coche,INCLUIDO
+34,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Robo y Hurto del Coche,INCLUIDO
+35,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Con Franquicia,Cobertura de Daños Propios,INCLUIDO
+36,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Seguro del conductor/Accidentes personales del conductor,INCLUIDO
+37,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Responsabilidad Civil,INCLUIDO
+38,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Asistencia en Carretera y Grúa Estándar en España,INCLUIDO
+39,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Servicio de Reparación Direct/Talleres Reparación,INCLUIDO
+40,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Defensa Jurídica y Reclamación de Daños/Protección Jurídica,INCLUIDO
+41,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Rotura de Lunas,INCLUIDO
+42,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Cobertura de Incendio del Coche,INCLUIDO
+43,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Robo y Hurto del Coche,INCLUIDO
+44,2022-03-25 20:37:38,Direct Seguros,Auto,Todo Riesgo Sin Franquicia,Cobertura de Daños Propios,INCLUIDO
+0,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Responsabilidad Civil OBLIGATORIA,INCLUIDO
+1,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Reclamación de daños,INCLUIDO
+2,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Defensa de infracciones administrativas de tráfico (multas),INCLUIDO
+3,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Curso de recuperación de puntos,INCLUIDO
+4,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Rotura de lunas,Opc.
+5,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Reparación de lunas,Opc.
+6,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Robo,NO INCLUIDO
+7,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Incendio,NO INCLUIDO
+8,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Pérdida total,NO INCLUIDO
+9,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Daños propios,NO INCLUIDO
+10,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Animales cinegéticos,Opc.
+11,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Accidentes individuales - Seguro del conductor,Opc.
+12,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Responsabilidad Civil VOLUNTARIA,Opc.
+13,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Defensa jurídica,Opc.
+14,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,"Asistencia en viaje ""Oro"" o ""Platino""",Opc.
+15,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros,Asesoramiento jurídico telefónico y asistencia en la gestión de documentos legales,Opc.
+16,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Responsabilidad Civil OBLIGATORIA,INCLUIDO
+17,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Reclamación de daños,INCLUIDO
+18,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Defensa de infracciones administrativas de tráfico (multas),INCLUIDO
+19,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Curso de recuperación de puntos,INCLUIDO
+20,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Rotura de lunas,INCLUIDO
+21,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Reparación de lunas,INCLUIDO
+22,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Robo,INCLUIDO
+23,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Incendio,INCLUIDO
+24,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Pérdida total,Opc.
+25,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Daños propios,NO INCLUIDO
+26,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Animales cinegéticos,Opc.
+27,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Accidentes individuales - Seguro del conductor,Opc.
+28,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Responsabilidad Civil VOLUNTARIA,Opc.
+29,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Defensa jurídica,Opc.
+30,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,"Asistencia en viaje ""Oro"" o ""Platino""",Opc.
+31,2022-03-25 20:37:38,MMT Seguros,Auto,Terceros Ampliado,Asesoramiento jurídico telefónico y asistencia en la gestión de documentos legales,Opc.
+32,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Responsabilidad Civil OBLIGATORIA,INCLUIDO
+33,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Reclamación de daños,INCLUIDO
+34,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Defensa de infracciones administrativas de tráfico (multas),INCLUIDO
+35,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Curso de recuperación de puntos,INCLUIDO
+36,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Rotura de lunas,INCLUIDO
+37,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Reparación de lunas,INCLUIDO
+38,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Robo,INCLUIDO
+39,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Incendio,INCLUIDO (SEGUN FRANQUICIA)
+40,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Pérdida total,INCLUIDO (SEGUN FRANQUICIA)
+41,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Daños propios,INCLUIDO (SEGUN FRANQUICIA)
+42,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Animales cinegéticos,Opc.
+43,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Accidentes individuales - Seguro del conductor,Opc.
+44,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Responsabilidad Civil VOLUNTARIA,Opc.
+45,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Defensa jurídica,Opc.
+46,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,"Asistencia en viaje ""Oro"" o ""Platino""",Opc.
+47,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo con Franquicia,Asesoramiento jurídico telefónico y asistencia en la gestión de documentos legales,Opc.
+48,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Responsabilidad Civil OBLIGATORIA,INCLUIDO
+49,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Reclamación de daños,INCLUIDO
+50,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Defensa de infracciones administrativas de tráfico (multas),INCLUIDO
+51,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Curso de recuperación de puntos,INCLUIDO
+52,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Rotura de lunas,INCLUIDO
+53,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Reparación de lunas,INCLUIDO
+54,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Robo,INCLUIDO
+55,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Incendio,INCLUIDO
+56,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Pérdida total,INCLUIDO
+57,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Daños propios,INCLUIDO
+58,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Animales cinegéticos,INCLUIDO
+59,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Accidentes individuales - Seguro del conductor,Opc.
+60,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Responsabilidad Civil VOLUNTARIA,Opc.
+61,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Defensa jurídica,Opc.
+62,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,"Asistencia en viaje ""Oro"" o ""Platino""",Opc.
+63,2022-03-25 20:37:38,MMT Seguros,Auto,Todo Riesgo,Asesoramiento jurídico telefónico y asistencia en la gestión de documentos legales,Opc.
+0,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Daños a terceros,INCLUIDO
+1,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Daños conductores y acompañantes,INCLUIDO
+2,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Gastos jurídicos,INCLUIDO
+3,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Cristales y ópticas del coche,NO INCLUIDO
+4,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Indemnización por robo e incendio,NO INCLUIDO
+5,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Recuperación de puntos del carnet,NO INCLUIDO
+6,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Vehículo de sustitución,NO INCLUIDO
+7,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Indemnización por cualquier motivo,NO INCLUIDO
+8,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Primeros 200 € de franquicia cubiertos,NO INCLUIDO
+9,2022-03-25 20:37:39,RACC,Auto,TERCEROS,Dos siniestros no penalizan en el precio de la renovación,NO INCLUIDO
+10,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Daños a terceros,INCLUIDO
+11,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Daños conductores y acompañantes,INCLUIDO
+12,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Gastos jurídicos,INCLUIDO
+13,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Cristales y ópticas del coche,INCLUIDO
+14,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Indemnización por robo e incendio,NO INCLUIDO
+15,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Recuperación de puntos del carnet,NO INCLUIDO
+16,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Vehículo de sustitución,NO INCLUIDO
+17,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Indemnización por cualquier motivo,NO INCLUIDO
+18,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Primeros 200 € de franquicia cubiertos,NO INCLUIDO
+19,2022-03-25 20:37:39,RACC,Auto,TERCEROS CON LUNAS,Dos siniestros no penalizan en el precio de la renovación,NO INCLUIDO
+20,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Daños a terceros,INCLUIDO
+21,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Daños conductores y acompañantes,INCLUIDO
+22,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Gastos jurídicos,INCLUIDO
+23,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Cristales y ópticas del coche,INCLUIDO
+24,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Indemnización por robo e incendio,INCLUIDO
+25,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Recuperación de puntos del carnet,INCLUIDO
+26,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Vehículo de sustitución,INCLUIDO
+27,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Indemnización por cualquier motivo,NO INCLUIDO
+28,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Primeros 200 € de franquicia cubiertos,NO INCLUIDO
+29,2022-03-25 20:37:39,RACC,Auto,TERCEROS COMPLETO,Dos siniestros no penalizan en el precio de la renovación,NO INCLUIDO
+30,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Daños a terceros,INCLUIDO
+31,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Daños conductores y acompañantes,INCLUIDO
+32,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Gastos jurídicos,INCLUIDO
+33,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Cristales y ópticas del coche,INCLUIDO
+34,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Indemnización por robo e incendio,INCLUIDO
+35,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Recuperación de puntos del carnet,INCLUIDO
+36,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Vehículo de sustitución,INCLUIDO
+37,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Indemnización por cualquier motivo,INCLUIDO
+38,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Primeros 200 € de franquicia cubiertos,INCLUIDO
+39,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO CON FRANQUICIA,Dos siniestros no penalizan en el precio de la renovación,NO INCLUIDO
+40,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Daños a terceros,INCLUIDO
+41,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Daños conductores y acompañantes,INCLUIDO
+42,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Gastos jurídicos,INCLUIDO
+43,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Cristales y ópticas del coche,INCLUIDO
+44,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Indemnización por robo e incendio,INCLUIDO
+45,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Recuperación de puntos del carnet,INCLUIDO
+46,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Vehículo de sustitución,INCLUIDO
+47,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Indemnización por cualquier motivo,INCLUIDO
+48,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Primeros 200 € de franquicia cubiertos,NO INCLUIDO
+49,2022-03-25 20:37:39,RACC,Auto,TODO RIESGO,Dos siniestros no penalizan en el precio de la renovación,INCLUIDO
+0,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,RC obligatoria,Incluido
+1,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,RC complementaria a la suscripción obligatoria,Incluido
+2,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,RC circulación recintos portuarios,No Incluido
+3,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,R.C. peatón y ciclista,Incluido
+4,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,RC incendio,Incluido
+5,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Defensa jurídica y reclamación,Incluido
+6,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Defensa en infracciones administrativas de tráfico,Incluido
+7,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Orientación médica telefónica,Incluido
+8,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Servicio de alertas de multas de tráfico,Incluido
+9,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Asesoría jurídica telefónica,Incluido
+10,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Servicio de gestoría,Incluido
+11,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Adelanto,Incluido
+12,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Rotura de lunas,Incluido
+13,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Incendio (1) (2),Incluido
+14,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Equipajes y objetos personales incendio,No Incluido
+15,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Exceso de equipamiento opcional incendio,No Incluido
+16,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Robo (1) (2),Incluido
+17,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Equipajes y objetos personales robo,No Incluido
+18,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Exceso de equipamiento opcional robo,No Incluido
+19,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Pérdida total (1),No Incluido
+20,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Daños propios (1) (2),No Incluido
+21,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Daños propios con franquicia (1),No Incluido
+22,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Daños propios con franquicia de mantenimiento (1),No Incluido
+23,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Equipajes y objetos personales DDPP,No Incluido
+24,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Exceso de equipamiento opcional DDPP,No Incluido
+25,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Asistencia en viaje básica,Incluido
+26,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Asistencia en viaje amplia,No Incluido
+27,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Accidentes corporales del conductor,Incluido
+28,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Accidentes ocupantes,Incluido
+29,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Gastos de sepelio,No Incluido
+30,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Vehículo de sustitución,No Incluido
+31,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Limpieza del vehículo,No Incluido
+32,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Gastos de ITV tras accidente garantizado,No Incluido
+33,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Servicio de peritación en daños no cubiertos,No Incluido
+34,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Duplicado de llaves,No Incluido
+35,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Recogida/entrega del vehículo reparado,No Incluido
+36,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Préstamo para la reparación del vehículo,No Incluido
+37,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Insolvencia a terceros,Incluido
+38,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Animales cinegéticos,Incluido
+39,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Fenómenos atmosféricos,Incluido
+40,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Recuperación de puntos,Incluido
+41,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros,Subsidio,No Incluido
+42,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,RC obligatoria,Incluido
+43,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,RC complementaria a la suscripción obligatoria,Incluido
+44,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,RC circulación recintos portuarios,Incluido
+45,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,R.C. peatón y ciclista,Incluido
+46,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,RC incendio,Incluido
+47,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Defensa jurídica y reclamación,Incluido
+48,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Defensa en infracciones administrativas de tráfico,Incluido
+49,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Orientación médica telefónica,Incluido
+50,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Servicio de alertas de multas de tráfico,Incluido
+51,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Asesoría jurídica telefónica,Incluido
+52,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Servicio de gestoría,Incluido
+53,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Adelanto,Incluido
+54,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Rotura de lunas,Incluido
+55,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Incendio (1) (2),Incluido
+56,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Equipajes y objetos personales incendio,Incluido
+57,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Exceso de equipamiento opcional incendio,Incluido
+58,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Robo (1) (2),Incluido
+59,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Equipajes y objetos personales robo,Incluido
+60,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Exceso de equipamiento opcional robo,Incluido
+61,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Pérdida total (1),Incluido
+62,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Daños propios (1) (2),No Incluido
+63,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Daños propios con franquicia (1),No Incluido
+64,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Daños propios con franquicia de mantenimiento (1),No Incluido
+65,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Equipajes y objetos personales DDPP,No Incluido
+66,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Exceso de equipamiento opcional DDPP,No Incluido
+67,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Asistencia en viaje básica,Incluido
+68,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Asistencia en viaje amplia,No Incluido
+69,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Accidentes corporales del conductor,Incluido
+70,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Accidentes ocupantes,Incluido
+71,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Gastos de sepelio,Incluido
+72,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Vehículo de sustitución,Incluido
+73,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Limpieza del vehículo,No Incluido
+74,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Gastos de ITV tras accidente garantizado,No Incluido
+75,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Servicio de peritación en daños no cubiertos,No Incluido
+76,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Duplicado de llaves,No Incluido
+77,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Recogida/entrega del vehículo reparado,No Incluido
+78,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Préstamo para la reparación del vehículo,Incluido
+79,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Insolvencia a terceros,Incluido
+80,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Animales cinegéticos,Incluido
+81,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Fenómenos atmosféricos,Incluido
+82,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Recuperación de puntos,Incluido
+83,2022-03-25 20:37:39,Seguros Bilbao,Auto,Terceros completo,Subsidio,Incluido
+84,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,RC obligatoria,Incluido
+85,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,RC complementaria a la suscripción obligatoria,Incluido
+86,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,RC circulación recintos portuarios,Incluido
+87,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,R.C. peatón y ciclista,Incluido
+88,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,RC incendio,Incluido
+89,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Defensa jurídica y reclamación,Incluido
+90,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Defensa en infracciones administrativas de tráfico,Incluido
+91,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Orientación médica telefónica,Incluido
+92,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Servicio de alertas de multas de tráfico,Incluido
+93,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Asesoría jurídica telefónica,Incluido
+94,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Servicio de gestoría,Incluido
+95,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Adelanto,Incluido
+96,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Rotura de lunas,Incluido
+97,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Incendio (1) (2),Incluido
+98,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Equipajes y objetos personales incendio,Incluido
+99,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Exceso de equipamiento opcional incendio,Incluido
+100,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Robo (1) (2),Incluido
+101,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Equipajes y objetos personales robo,Incluido
+102,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Exceso de equipamiento opcional robo,Incluido
+103,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Pérdida total (1),No Incluido
+104,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Daños propios (1) (2),No Incluido
+105,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Daños propios con franquicia (1),Incluido
+106,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Daños propios con franquicia de mantenimiento (1),No Incluido
+107,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Equipajes y objetos personales DDPP,Incluido
+108,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Exceso de equipamiento opcional DDPP,Incluido
+109,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Asistencia en viaje básica,Incluido
+110,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Asistencia en viaje amplia,Incluido
+111,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Accidentes corporales del conductor,Incluido
+112,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Accidentes ocupantes,Incluido
+113,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Gastos de sepelio,Incluido
+114,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Vehículo de sustitución,Incluido
+115,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Limpieza del vehículo,Incluido
+116,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Gastos de ITV tras accidente garantizado,Incluido
+117,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Servicio de peritación en daños no cubiertos,Incluido
+118,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Duplicado de llaves,Incluido
+119,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Recogida/entrega del vehículo reparado,Incluido
+120,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Préstamo para la reparación del vehículo,Incluido
+121,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Insolvencia a terceros,Incluido
+122,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Animales cinegéticos,Incluido
+123,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Fenómenos atmosféricos,Incluido
+124,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Recuperación de puntos,Incluido
+125,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia,Subsidio,Incluido
+126,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,RC obligatoria,Incluido
+127,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,RC complementaria a la suscripción obligatoria,Incluido
+128,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,RC circulación recintos portuarios,Incluido
+129,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,R.C. peatón y ciclista,Incluido
+130,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,RC incendio,Incluido
+131,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Defensa jurídica y reclamación,Incluido
+132,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Defensa en infracciones administrativas de tráfico,Incluido
+133,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Orientación médica telefónica,Incluido
+134,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Servicio de alertas de multas de tráfico,Incluido
+135,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Asesoría jurídica telefónica,Incluido
+136,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Servicio de gestoría,Incluido
+137,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Adelanto,Incluido
+138,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Rotura de lunas,Incluido
+139,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Incendio (1) (2),Incluido
+140,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Equipajes y objetos personales incendio,Incluido
+141,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Exceso de equipamiento opcional incendio,Incluido
+142,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Robo (1) (2),Incluido
+143,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Equipajes y objetos personales robo,Incluido
+144,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Exceso de equipamiento opcional robo,Incluido
+145,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Pérdida total (1),No Incluido
+146,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Daños propios (1) (2),No Incluido
+147,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Daños propios con franquicia (1),No Incluido
+148,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Daños propios con franquicia de mantenimiento (1),Incluido
+149,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Equipajes y objetos personales DDPP,Incluido
+150,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Exceso de equipamiento opcional DDPP,Incluido
+151,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Asistencia en viaje básica,Incluido
+152,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Asistencia en viaje amplia,Incluido
+153,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Accidentes corporales del conductor,Incluido
+154,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Accidentes ocupantes,Incluido
+155,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Gastos de sepelio,Incluido
+156,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Vehículo de sustitución,Incluido
+157,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Limpieza del vehículo,Incluido
+158,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Gastos de ITV tras accidente garantizado,Incluido
+159,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Servicio de peritación en daños no cubiertos,Incluido
+160,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Duplicado de llaves,Incluido
+161,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Recogida/entrega del vehículo reparado,Incluido
+162,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Préstamo para la reparación del vehículo,Incluido
+163,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Insolvencia a terceros,Incluido
+164,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Animales cinegéticos,Incluido
+165,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Fenómenos atmosféricos,Incluido
+166,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Recuperación de puntos,Incluido
+167,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo con franquicia mantenimiento,Subsidio,Incluido
+168,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,RC obligatoria,Incluido
+169,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,RC complementaria a la suscripción obligatoria,Incluido
+170,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,RC circulación recintos portuarios,Incluido
+171,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,R.C. peatón y ciclista,Incluido
+172,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,RC incendio,Incluido
+173,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Defensa jurídica y reclamación,Incluido
+174,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Defensa en infracciones administrativas de tráfico,Incluido
+175,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Orientación médica telefónica,Incluido
+176,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Servicio de alertas de multas de tráfico,Incluido
+177,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Asesoría jurídica telefónica,Incluido
+178,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Servicio de gestoría,Incluido
+179,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Adelanto,Incluido
+180,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Rotura de lunas,Incluido
+181,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Incendio (1) (2),Incluido
+182,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Equipajes y objetos personales incendio,Incluido
+183,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Exceso de equipamiento opcional incendio,Incluido
+184,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Robo (1) (2),Incluido
+185,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Equipajes y objetos personales robo,Incluido
+186,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Exceso de equipamiento opcional robo,Incluido
+187,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Pérdida total (1),No Incluido
+188,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Daños propios (1) (2),Incluido
+189,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Daños propios con franquicia (1),No Incluido
+190,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Daños propios con franquicia de mantenimiento (1),No Incluido
+191,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Equipajes y objetos personales DDPP,Incluido
+192,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Exceso de equipamiento opcional DDPP,Incluido
+193,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Asistencia en viaje básica,Incluido
+194,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Asistencia en viaje amplia,Incluido
+195,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Accidentes corporales del conductor,Incluido
+196,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Accidentes ocupantes,Incluido
+197,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Gastos de sepelio,Incluido
+198,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Vehículo de sustitución,Incluido
+199,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Limpieza del vehículo,Incluido
+200,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Gastos de ITV tras accidente garantizado,Incluido
+201,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Servicio de peritación en daños no cubiertos,Incluido
+202,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Duplicado de llaves,Incluido
+203,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Recogida/entrega del vehículo reparado,Incluido
+204,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Préstamo para la reparación del vehículo,No Incluido
+205,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Insolvencia a terceros,Incluido
+206,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Animales cinegéticos,Incluido
+207,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Fenómenos atmosféricos,Incluido
+208,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Recuperación de puntos,Incluido
+209,2022-03-25 20:37:39,Seguros Bilbao,Auto,Todo riesgo sin franquicia,Subsidio,Incluido
+210,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,RC obligatoria,Incluido
+211,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,RC complementaria a la suscripción obligatoria,Incluido
+212,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,RC circulación recintos portuarios,Incluido
+213,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,R.C. peatón y ciclista,Incluido
+214,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,RC incendio,Incluido
+215,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Defensa jurídica y reclamación,Incluido
+216,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Defensa en infracciones administrativas de tráfico,Incluido
+217,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Orientación médica telefónica,Incluido
+218,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Servicio de alertas de multas de tráfico,Incluido
+219,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Asesoría jurídica telefónica,Incluido
+220,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Servicio de gestoría,Incluido
+221,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Adelanto,Incluido
+222,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Rotura de lunas,Incluido
+223,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Incendio (1) (2),Incluido
+224,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Equipajes y objetos personales incendio,Incluido
+225,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Exceso de equipamiento opcional incendio,Incluido
+226,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Robo (1) (2),Incluido
+227,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Equipajes y objetos personales robo,Incluido
+228,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Exceso de equipamiento opcional robo,Incluido
+229,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Pérdida total (1),No Incluido
+230,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Daños propios (1) (2),Incluido
+231,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Daños propios con franquicia (1),No Incluido
+232,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Daños propios con franquicia de mantenimiento (1),No Incluido
+233,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Equipajes y objetos personales DDPP,Incluido
+234,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Exceso de equipamiento opcional DDPP,Incluido
+235,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Asistencia en viaje básica,Incluido
+236,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Asistencia en viaje amplia,Incluido
+237,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Accidentes corporales del conductor,Incluido
+238,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Accidentes ocupantes,Incluido
+239,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Gastos de sepelio,Incluido
+240,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Vehículo de sustitución,Incluido
+241,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Limpieza del vehículo,Incluido
+242,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Gastos de ITV tras accidente garantizado,Incluido
+243,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Servicio de peritación en daños no cubiertos,Incluido
+244,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Duplicado de llaves,Incluido
+245,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Recogida/entrega del vehículo reparado,Incluido
+246,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Préstamo para la reparación del vehículo,No Incluido
+247,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Insolvencia a terceros,Incluido
+248,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Animales cinegéticos,Incluido
+249,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Fenómenos atmosféricos,Incluido
+250,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Recuperación de puntos,Incluido
+251,2022-03-25 20:37:39,Seguros Bilbao,Auto,Premium,Subsidio,Incluido

@@ -7,6 +7,7 @@ from datetime import datetime
 def RACC():
     # Posem la URL
     URL = 'https://www.racc.es/seguro-coche/'
+    print('Llegint dades de RACC...')
 
     # Extraurem les dades HTML de la web
     orlUrl = requests.get(URL)

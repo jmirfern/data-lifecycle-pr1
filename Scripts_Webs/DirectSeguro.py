@@ -7,6 +7,7 @@ from datetime import datetime
 def DirectSeguro():
     # Posem la URL
     URL = 'https://www.directseguros.es/seguros-de-coche/seguro-comparativa.html'
+    print('Llegint dades de Direct Seguro...')
 
     # Extraurem les dades HTML de la web
     orlUrl = requests.get(URL)
