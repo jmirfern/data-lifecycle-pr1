@@ -2,7 +2,6 @@ import pandas as pd
 from Scripts_Webs.Catalana_Occidente import Catalanaoccidnete
 from Scripts_Webs.DirectSeguro import DirectSeguro
 from Scripts_Webs.MMTSEGUROS import MMTSEGUROS
-from Scripts_Webs.Mutua import Mutua
 from Scripts_Webs.RACC import RACC
 from Scripts_Webs.Seguros_Bilbao import Seguros_Bilbao
 # Funcio que ens arregla les taules de les diferents webs
