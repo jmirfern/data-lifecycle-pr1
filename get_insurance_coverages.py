@@ -1,12 +1,12 @@
 import os
 import argparse
 import pandas as pd
-from Scripts_Webs.Catalana_Occidente import Catalanaoccidnete
-from Scripts_Webs.DirectSeguro import DirectSeguro
-from Scripts_Webs.MMTSEGUROS import MMTSEGUROS
-from Scripts_Webs.RACC import RACC
-from Scripts_Webs.Seguros_Bilbao import Seguros_Bilbao
-from Scripts_Webs import create_dataset
+from ws_scripts.Catalana_Occidente import Catalanaoccidnete
+from ws_scripts.DirectSeguro import DirectSeguro
+from ws_scripts.MMTSEGUROS import MMTSEGUROS
+from ws_scripts.RACC import RACC
+from ws_scripts.Seguros_Bilbao import Seguros_Bilbao
+from ws_scripts import create_dataset
 
 
 def main():
