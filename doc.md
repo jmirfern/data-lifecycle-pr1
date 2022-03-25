@@ -25,7 +25,7 @@ de les pàgines utilitzades com a font per a alimentar el dataset:
 En funció del context aportat a l'apartat anterior, 
 el títol serà el següent:
 
-> comparacio_cobertures_auto
+> comparacio_cobertures_auto.csv
 
 ## 3. Descripció del dataset
 
@@ -35,7 +35,7 @@ cada companyia d'assegurances
 
 ## 4. Representació gràfica
 
-![esquema](imgs/esquema.jpeg)
+![esquema](docs/esquema.jpeg)
 
 ## 5. Continguts
 
@@ -57,14 +57,33 @@ Els camps del dataset són els següents:
 
 ## 6. Agraïments
 
+Agraïm a les diferents webs des d'on hem extret la info:
+
+- [Catalana Occident](https://www.seguroscatalanaoccidente.com/seguros-coche-comparativa)
+- [Direct Seguros](https://www.directseguros.es/seguros-de-coche/seguro-comparativa.html)
+- [MMT Seguros](https://www.mmtseguros.com/seguros-coche/comparador-seguros-coche/)
+- [RACC](https://www.racc.es/seguro-coche/)
+- [Seguros Bilbao](https://www.segurosbilbao.com/seguros-coche/comparativa)
+
 ## 7. Inspiració
 
 ## 8. Llicència
 
+Escollim *Released Under CC0: Public Domain License*, donat que es 
+tracta d'un projecte de software lliure on qualsevol persona pot contribuir 
+o fer ús del mateix sense restriccions. 
+
 ## 9. Codi
 
+El codi es troba en el següent repositori de 
+[GitHub](https://github.com/jmirfern/data-lifecycle-pr1/tree/feature/%239-code-replica)
+
 ## 10. Dataset link
+El dataset generat es pot descarregar des 
+de [Zenodo](https://zenodo.org/record/6385595#.Yj4fiy8rxhE)
 
 ## 11. Video link
+
+< Pending >
 
 
