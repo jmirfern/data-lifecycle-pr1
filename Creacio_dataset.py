@@ -28,14 +28,13 @@ def Creacio_Dataset(Hora, Nom, Datos):
 Datos1, nom1, hora1 = Catalanaoccidnete()
 Datos2, nom2, hora2 = DirectSeguro()
 Datos3, nom3, hora3 = MMTSEGUROS()
-Datos4, nom4, hora4 = Mutua()
-Datos5, nom5, hora5 = RACC()
-Datos6, nom6, hora6 = Seguros_Bilbao()
+Datos4, nom4, hora4 = RACC()
+Datos5, nom5, hora5 = Seguros_Bilbao()
 
 # Preparem les dades
-Datos = [Datos1, Datos2, Datos3, Datos4, Datos5, Datos6]
-Nom = [nom1, nom2, nom3, nom4, nom5, nom6]
-Hora = [hora1, hora2, hora3, hora4, hora5, hora6]
+Datos = [Datos1, Datos2, Datos3, Datos4, Datos5]
+Nom = [nom1, nom2, nom3, nom4, nom5]
+Hora = [hora1, hora2, hora3, hora4, hora5]
 
 # Dataframe buit
 df = pd.DataFrame()
