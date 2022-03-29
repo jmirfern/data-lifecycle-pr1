@@ -37,7 +37,7 @@ def webscrap_insurance_webs(output_path):
 
 
     df = pd.concat(df_list)
-    ruta = os.path.join(output_path, 'data/comparacio_cobertures_auto.csv')
+    ruta = os.path.join(output_path, 'comparacio_cobertures_auto.csv')
     print("Fitxer csv exportat a: ")
     print(str(ruta))
     df.to_csv(ruta)
