@@ -7,7 +7,7 @@ from datetime import datetime
 def MMTSEGUROS():
     # Posem la URL
     URL = 'https://www.mmtseguros.com/seguros-coche/comparador-seguros-coche/'
-
+    print('Llegint dades de MMT SEGUROS...')
     # Extraurem les dades HTML de la web
     orlUrl = requests.get(URL)
 

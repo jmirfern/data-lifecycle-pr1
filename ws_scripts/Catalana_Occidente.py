@@ -4,10 +4,11 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 
+
 def Catalanaoccidnete():
     # Posem la URL
     URL = 'https://www.seguroscatalanaoccidente.com/seguros-coche-comparativa'
-
+    print('Llegint dades de Catalana Occidente...')
 
     # Extraurem les dades HTML de la web
     orlUrl = requests.get(URL)
