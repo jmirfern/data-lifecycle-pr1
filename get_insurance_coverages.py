@@ -13,7 +13,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--export_path", help="Entra la ruta per exportar el fitxer de sortida csv")
     args = parser.parse_args()
-    webscrap_insurance_webs(output_path=args.export_path)
+    if args.export_path is None:
+        output_path = os.getcwd()
+    else:
+        output_path = args.export_path
+    webscrap_insurance_webs(output_path)
 
 
 def webscrap_insurance_webs(output_path):
@@ -37,7 +41,7 @@ def webscrap_insurance_webs(output_path):
 
 
     df = pd.concat(df_list)
-    ruta = os.path.join(output_path, 'comparacio_cobertures_auto.csv')
+    ruta = os.path.join(output_path,'data', 'comparacio_cobertures_auto.csv')
     print("Fitxer csv exportat a: ")
     print(str(ruta))
     df.to_csv(ruta)
