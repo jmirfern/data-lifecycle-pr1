@@ -26,6 +26,8 @@ a la ruta on estigui ubicat amb la següent comanda de terminal, on `EXPORT_PATH
 ```
 python get_insurance_coverages.py --export_path EXPORT_PATH
 ```
+
+També pot executar el codi de manera habitual.
 ## Descripció dels fitxers
 L'estructura del projecte és mostra a continuació:
 
