@@ -127,6 +127,8 @@ de [Zenodo](https://zenodo.org/record/6385595#.Yj4fiy8rxhE)
 
 ## 11. Video link
 
-< Pending >
+El video es pot descarregar en el següent enllaç:
+
+[Video link](https://drive.google.com/file/d/1sUuu2eK11m1wwobjCKPstPrwyR-7KULi/view?usp=sharing)
 
 
