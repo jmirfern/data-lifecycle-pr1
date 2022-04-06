@@ -112,9 +112,7 @@ la competència.
 
 ## 8. Llicència
 
-Escollim *Released Under CC0: Public Domain License*, donat que es 
-tracta d'un projecte de software lliure on qualsevol persona pot contribuir 
-o fer ús del mateix sense restriccions. 
+Segons la privacitat de les dades que tenim, la llicència que elegim és la *Released Under CC0: Public Domain License*, aquesta llicència és emprada en llocs de domini públic, on donen plena llibertat a usar la informació aportada, veiem que les dades extretes són de domini públic, ja que qualsevol persona interessada a buscar un segur de cotxes podrà accedir a totes aquestes dades, sense cap impediment, a més, l'accés a aquestes no està controlat per cap procés de seguretat, pel fet que no ens demanen ni la validació mitjançant captcha, ni és necessari estar registrat.
 
 ## 9. Codi
 
@@ -131,4 +129,10 @@ El video es pot descarregar en el següent enllaç:
 
 [Video link](https://drive.google.com/file/d/1sUuu2eK11m1wwobjCKPstPrwyR-7KULi/view?usp=sharing)
 
+## Taula de contribucions
 
+| Contribucions              | Signatura |
+|----------------------------| ----------|
+| Investigació prèvia        | JMF, DCG  |
+| Redacció de les respostes  | JMF, DCG  |
+| Desenvolupament del codi   | JMF, DCG  |
